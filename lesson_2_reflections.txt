@@ -16,3 +16,14 @@ By using the commands git diff or git diff --staged, it is possible to see the c
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches could help when wanting to test out adding some new features to a project without modifying the original. It could especially be helpful if one was collaborating on a project, so different people could add different things and then maybe find a way to merge the branches back together as was alluded to in the video.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams allow you to see how all of the different branches are connected and see what the parents of each commit is. This also helps you to see if there are any commits in danger of being lost.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The two branches were merged together and now features from both branches are present in a single branch. The diagram simply shows what is going on by showing the two merged branches coming together into a single commit.
+Note: it was a little harder to merge than I'd thought. The two branches wouldn't merge for some reason, it kept saying there was a conflict. I finally got it to merge by going back to an earlier version and then redoing the modifications I had made.
