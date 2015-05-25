@@ -6,3 +6,8 @@ multiple computers. It is an easy way to keep everything up to date and accessib
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If Git were to pull automatically, then a branch you are working on may be modified without you wanting it to be. Having to pull gives you more control.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are a way of cloning someonelses repository for your own editing from github, while clones are a way of copying everything from a remote to a local repository. Finally, branches are a way of creating a split in the repository for modifying and adding new features which may eventually be merged back into the other branches.
