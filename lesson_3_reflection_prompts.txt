@@ -14,3 +14,6 @@ Forks are a way of cloning someonelses repository for your own editing from gith
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If the remote changes and the local changes, having a copy of the original assists in merging, both automatically and manually.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitHub I have to send files back and forth by email or use GoogleDocs. It is harder to keep track of what changes others are making because there is no description of what was done as commits have. There is also not really a chance to review changes before they are made. But it is a little easier because not everyone has to know git and github.
